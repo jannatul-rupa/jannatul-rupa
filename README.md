@@ -1,7 +1,5 @@
 <h1 align="center">This is Sheikh Jannatul Ferdaus Rupa</h1>
-<h3 align="center">A passionate PHP developer from Bangladesh</h3>
-
-- 🔭 I’m currently working on [AKS Deign](https://github.com/jannatul-rupa/Interior-Design-AKS-Design-)
+<h3 align="center">A passionate PHP developer from Bangladesh</h3
 
 - 🌱 I’m currently learning **React,NodeJS**
 
